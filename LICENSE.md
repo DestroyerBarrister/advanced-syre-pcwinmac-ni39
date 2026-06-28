@@ -1,4 +1,4 @@
-# 
+# 终极 Advanced SystemCare 扩展 Mac OS版 | 开源 Advanced SystemCare 扩展 PC Windows版。集成 重复文件查找 和 多格式支持，跨平台性能最大化。
 
 
 
